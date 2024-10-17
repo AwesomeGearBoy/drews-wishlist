@@ -44,3 +44,7 @@ a:hover {
 a:active {
     color: aliceblue;
 }
+
+.obtained {
+    text-decoration: line-through;
+}
