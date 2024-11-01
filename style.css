@@ -14,12 +14,29 @@ h1 {
 
 h3 {
     margin: 0;
-    font-size: 40px;
+    font-size: 35px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: left;
     text-shadow: 1px 1px rgb(200, 200, 200);
     color: rgb(0, 0, 29);
+}
+
+h5 {
+    display: block;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(200, 200, 200);
+    color: rgb(0, 0, 29);
+    background-color: rgb(199, 202, 0);
+    width: 950px;
 }
 
 ul {
