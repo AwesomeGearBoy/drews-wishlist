@@ -36,7 +36,8 @@ h5 {
     text-shadow: 1px 1px rgb(200, 200, 200);
     color: rgb(0, 0, 29);
     background-color: rgb(199, 202, 0);
-    width: 950px;
+    width: 930px;
+    height: auto;
 }
 
 ul {
