@@ -51,6 +51,17 @@ li {
     color: rgb(0, 0, 29); 
 }
 
+footer {
+    font-size: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    text-decoration: underline;
+    color: rgb(0, 0, 29);
+    margin: 0;
+}
+
 a {
     color: rgb(0, 0, 150);
 }
