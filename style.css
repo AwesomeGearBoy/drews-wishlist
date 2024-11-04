@@ -78,6 +78,6 @@ a:active {
     color: rgb(240, 248, 255);
 }
 
-.obtained {
+#obtained {
     text-decoration: line-through;
 }
