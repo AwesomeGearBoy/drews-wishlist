@@ -2,7 +2,7 @@ body {
     background: rgb(226, 169, 55);
     border-style: double;
     border-width: 4px;
-    border-color: rgb(114, 44, 108);
+    border-color: rgb(155, 44, 146);
     border-radius: 10px;
 }
 
@@ -13,7 +13,7 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-shadow: 0.6px 0.6px rgb(178, 218, 255);
-    color: rgb(114, 44, 108);
+    color: rgb(155, 44, 146);
 }
 
 h3 {
@@ -25,7 +25,7 @@ h3 {
     text-align: left;
     text-decoration: underline;
     text-shadow: 0.3px 0.3px rgb(178, 218, 255);
-    color: rgb(114, 44, 108);
+    color: rgb(155, 44, 146);
 }
 
 h5 {
@@ -37,9 +37,9 @@ h5 {
     font-weight: bold;
     font-style: italic;
     text-align: center;
-    color: rgb(114, 44, 108);
+    color: rgb(155, 44, 146);
     border-style: dashed;
-    border-color: rgb(114, 44, 108);
+    border-color: rgb(155, 44, 146);
     border-width: 4px;
     height: auto;
     width: 710px;
@@ -54,14 +54,14 @@ li {
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 30px;
-    color: rgb(114, 44, 108); 
+    color: rgb(155, 44, 146);
 }
 
 hr {
     border: none;
     border-style: solid;
     border-width: 1.5px;
-    border-color: rgb(114, 44, 108);
+    border-color: rgb(155, 44, 146);
 }
 
 footer {
@@ -71,7 +71,7 @@ footer {
     font-style: italic;
     text-align: right;
     text-decoration: underline;
-    color: rgb(114, 44, 108);
+    color: rgb(155, 44, 146);
     margin: 0;
     padding-right: 5px;
 }
