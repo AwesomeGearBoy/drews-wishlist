@@ -42,7 +42,7 @@ h5 {
     border-color: rgb(0, 0, 92);
     border-width: 4px;
     height: auto;
-    width: 710px;
+    width: 730px;
     background: rgb(76, 93, 110);
 }
 
@@ -51,8 +51,8 @@ ul {
 }
 
 li {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
     font-size: 30px;
     color: rgb(0, 0, 92); 
 }

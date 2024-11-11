@@ -1,8 +1,8 @@
 body {
-    background: rgb(226, 169, 55);
+    background: rgb(138, 102, 29);
     border-style: double;
     border-width: 4px;
-    border-color: rgb(155, 44, 146);
+    border-color: rgb(119, 7, 110);
     border-radius: 10px;
 }
 
@@ -13,7 +13,7 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-shadow: 0.6px 0.6px rgb(178, 218, 255);
-    color: rgb(155, 44, 146);
+    color: rgb(119, 7, 110);
 }
 
 h3 {
@@ -25,7 +25,7 @@ h3 {
     text-align: left;
     text-decoration: underline;
     text-shadow: 0.3px 0.3px rgb(178, 218, 255);
-    color: rgb(155, 44, 146);
+    color: rgb(119, 7, 110);
 }
 
 h5 {
@@ -37,13 +37,13 @@ h5 {
     font-weight: bold;
     font-style: italic;
     text-align: center;
-    color: rgb(155, 44, 146);
+    color: rgb(119, 7, 110);
     border-style: dashed;
-    border-color: rgb(155, 44, 146);
+    border-color: rgb(119, 7, 110);
     border-width: 4px;
     height: auto;
-    width: 710px;
-    background: rgb(118, 145, 172);
+    width: 730px;
+    background: rgb(99, 124, 150);
 }
 
 ul {
@@ -51,17 +51,17 @@ ul {
 }
 
 li {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
     font-size: 30px;
-    color: rgb(155, 44, 146);
+    color: rgb(119, 7, 110);
 }
 
 hr {
     border: none;
     border-style: solid;
     border-width: 1.5px;
-    border-color: rgb(155, 44, 146);
+    border-color: rgb(119, 7, 110);
 }
 
 footer {
@@ -71,13 +71,13 @@ footer {
     font-style: italic;
     text-align: right;
     text-decoration: underline;
-    color: rgb(155, 44, 146);
+    color: rgb(119, 7, 110);
     margin: 0;
     padding-right: 5px;
 }
 
 a {
-    background-color: rgb(118, 145, 172);;
+    background-color: rgb(99, 124, 150);
     color: rgb(124, 0, 107);
 }
 
