@@ -59,8 +59,8 @@ li {
 
 hr {
     border: none;
-    border-style: solid;
-    border-width: 1.5px;
+    border-style: double;
+    border-width: 2px;
     border-color: rgb(0, 53, 97);
 }
 
