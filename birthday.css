@@ -18,7 +18,7 @@ h1 {
 
 h3 {
     margin: 0;
-    padding-left: 20px;
+    padding-left: 10px;
     font-size: 35px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
@@ -48,6 +48,7 @@ h5 {
 
 ol {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 50px;
 }
 
 ul {
@@ -55,6 +56,7 @@ ul {
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
+    padding-left: 45px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
