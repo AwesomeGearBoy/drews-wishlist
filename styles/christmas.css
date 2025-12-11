@@ -111,6 +111,12 @@ a:active {
     color: rgb(167, 214, 255);
 }
 
+input[type="checkbox"] {
+    width: 25px;
+    height: 25px;
+    accent-color: rgb(24, 41, 70)
+}
+
 .obtained {
     text-decoration: line-through;
 }
